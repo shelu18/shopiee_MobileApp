@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66106372266",
+    "project_id": "shopiee-97ab8",
+    "storage_bucket": "shopiee-97ab8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66106372266:android:fa90787125fb30cd2460d3",
+        "android_client_info": {
+          "package_name": "com.shelu.shopiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66106372266-hkfq1nkoj52akhj7qs19ch9d7053die0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shelu.shopiee",
+            "certificate_hash": "816ae5271b9fb1a342d00869b883984155f781c8"
+          }
+        },
+        {
+          "client_id": "66106372266-nlci3m6avt7o0a7reqlpt12t9b9vdt41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpUF8VxT7JikOe6F3QobUViY5o1wBgWzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66106372266-nlci3m6avt7o0a7reqlpt12t9b9vdt41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
